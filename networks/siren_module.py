@@ -1,7 +1,6 @@
 import torch
 from torch import nn
 import torch.nn.functional as F
-
 import numpy as np
 
 # Building block of SIREN
@@ -81,5 +80,10 @@ class Siren(nn.Module):
         output = self.net(coords_)
         # return output, coords
         return output
+
+
+    
+    
+
 
 
