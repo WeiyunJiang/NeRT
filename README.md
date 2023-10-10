@@ -1,6 +1,7 @@
-# NeRT: Implicit Neural Representations for General Unsupervised Turbulence Mitigation
-## Set up environment
+# NeRT: Implicit Neural Representations for General Unsupervised Turbulence Mitigation\
 Weiyun Jiang, Vivek Boominathan, Ashok Veeraraghavan
+## Set up environment
+
 ```
 conda env create -f implicit_turbu.yml
 conda activate implicit_turbu
