@@ -1,4 +1,4 @@
-# NeRT: Implicit Neural Representations for General Unsupervised Turbulence Mitigation\
+# NeRT: Implicit Neural Representations for General Unsupervised Turbulence Mitigation
 Weiyun Jiang, Vivek Boominathan, Ashok Veeraraghavan
 ## Set up environment
 
