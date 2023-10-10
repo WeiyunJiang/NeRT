@@ -13,8 +13,8 @@ conda activate implicit_turbu
 ## High-Level structure
 The code is organized as follows:
 * ```networks/``` contains some basic neural network building blocks.
-* ```utils``` contains utility functions, most promintently related to reading images.
-* NeRT.ipynb contains demo codes. 
+* ```utils/``` contains utility functions, most promintently related to reading images.
+* ```NeRT.ipynb``` contains demo codes. 
 
 ## Reproducing experiments
 Run the NeRT.ipynb using jupyter notebook
