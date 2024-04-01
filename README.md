@@ -1,5 +1,7 @@
 # NeRT: Implicit Neural Representations for General Unsupervised Turbulence Mitigation
-Weiyun Jiang, Yuhao Liu, Vivek Boominathan, Ashok Veeraraghavan
+[Weiyun Jiang](https://weiyunjiang.github.io/), [Yuhao Liu](https://www.yuhaoliu.net/), [Vivek Boominathan](https://vivekboominathan.com/), [Ashok Veeraraghavan](https://profiles.rice.edu/faculty/ashok-veeraraghavan)
+
+[Project Page](https://weiyunjiang.github.io/NeRT/)
 ## Set up environment
 
 ```
