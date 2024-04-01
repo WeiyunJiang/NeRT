@@ -1,5 +1,5 @@
 # NeRT: Implicit Neural Representations for General Unsupervised Turbulence Mitigation
-Weiyun Jiang, Vivek Boominathan, Ashok Veeraraghavan
+Weiyun Jiang, Yuhao Liu, Vivek Boominathan, Ashok Veeraraghavan
 ## Set up environment
 
 ```
@@ -18,3 +18,26 @@ The code is organized as follows:
 
 ## Reproducing experiments
 Run the NeRT.ipynb using jupyter notebook
+
+## Citation
+```
+@article{jiang2024nert,
+    title={Nert: Implicit neural representations for general unsupervised 
+           turbulence mitigation},
+    author={Jiang, Weiyun and Liu, Yuhao and Boominathan, Vivek and 
+            Veeraraghavan, Ashok},
+    journal={arXiv preprint arXiv:2308.00622},
+    year={2024}
+}
+```
+```
+@inproceedings{jiang2023nert,
+    title={Nert: Implicit neural representations for unsupervised atmospheric 
+           turbulence mitigation},
+    author={Jiang, Weiyun and Boominathan, Vivek and Veeraraghavan, Ashok},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and 
+               Pattern Recognition Workshops},
+    pages={4235--4242},
+    year={2023}
+}
+```
