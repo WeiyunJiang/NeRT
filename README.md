@@ -23,13 +23,13 @@ Run the NeRT.ipynb using jupyter notebook
 
 ## Citation
 ```
-@article{jiang2024nert,
+@article{jiang2023nert_general,
     title={Nert: Implicit neural representations for general unsupervised 
            turbulence mitigation},
     author={Jiang, Weiyun and Liu, Yuhao and Boominathan, Vivek and 
             Veeraraghavan, Ashok},
     journal={arXiv preprint arXiv:2308.00622},
-    year={2024}
+    year={2023}
 }
 ```
 ```
