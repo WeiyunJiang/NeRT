@@ -10,7 +10,7 @@ conda activate implicit_turbu
 ```
 ## Dataset
 * Put the desired dataset under ```data/Ablation_data/```
-* Download the precomputed [p2s model](https://arxiv.org/abs/2107.11627) parameters from here: https://drive.google.com/file/d/10W7Y6hcGHRAsPXUSDqDfuE5z-z50jr1g/view?usp=drive_link
+* Download the precomputed [p2s model](https://arxiv.org/abs/2107.11627) parameters from [Google Drive](https://drive.google.com/file/d/10W7Y6hcGHRAsPXUSDqDfuE5z-z50jr1g/view?usp=drive_link)
 * Unzip ```p2s_data.zip``` under ```data/p2s_data```
 ## High-Level structure
 The code is organized as follows:
