@@ -1,7 +1,11 @@
-# NeRT: Implicit Neural Representations for Unsupervised Turbulence Mitigation
-[Weiyun Jiang](https://weiyunjiang.github.io/), [Yuhao Liu](https://www.yuhaoliu.net/), [Vivek Boominathan](https://vivekboominathan.com/), [Ashok Veeraraghavan](https://profiles.rice.edu/faculty/ashok-veeraraghavan)
+This repository is the official implementation of [NeRT: Implicit Neural Representations for Unsupervised Turbulence Mitigation](https://weiyunjiang.com/NeRT/).
 
-[Project Page](https://weiyunjiang.github.io/NeRT/)
+> **[CVPRW 2023] NeRT: Implicit Neural Representations for Unsupervised Turbulence Mitigation** <br>
+> [Weiyun Jiang](https://weiyunjiang.github.io/), [Vivek Boominathan](https://vivekboominathan.com/), [Ashok Veeraraghavan](https://profiles.rice.edu/faculty/ashok-veeraraghavan)<br>
+
+[![Arxiv](https://img.shields.io/badge/arXiv-2509.21309-b31b1b.svg?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2308.00622)
+[![Project Page](https://img.shields.io/badge/Project-Page-green?style=for-the-badge)](https://weiyunjiang.github.io/NeRT/)
+
 ## Set up environment
 
 ```
